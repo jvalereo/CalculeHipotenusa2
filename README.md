@@ -19,12 +19,6 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="https://user-images.githubusercontent.com/25933386/123529627-7e8e7280-d6c8-11eb-945f-15ba5280f153.jpg" style="max-width: 100%;"></img>
-</a>
-
-##
-
-<a href="#">
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width: 100%;"></img>
 </a>
 
